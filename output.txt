@@ -1,0 +1,6 @@
+PS C:\Users\HP\Desktop\study\NPTEL\AAAI> py label_reviews.py
+REVIEW → LABEL
+----------------------------------------
+ഈ ലാപ്‌ടോപ്പ് വളരെ വേഗമുള്ളതാണ് → POSITIVE        
+ബാറ്ററി ഒരു മണിക്കൂർ മാത്രം നിൽക്കുന്നു → NEGATIVE
+നല്ല ക്യാമറ, വിലയ്ക്ക് അർഹമായത് → POSITIVE        
