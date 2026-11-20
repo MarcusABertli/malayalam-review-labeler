@@ -1,6 +1,6 @@
 # Malayalam Review Labeler (AI Data Training)
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-217346)
 
 **Auto-labels product reviews in Malayalam using Python**  
